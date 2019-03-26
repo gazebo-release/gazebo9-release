@@ -1,3 +1,9 @@
+gazebo9 (9.8.0-1~bionic) bionic; urgency=medium
+
+  * gazebo9 9.8.0-1 release
+
+ -- Ian Chen <ichen@osrfoundation.org>  Mon, 25 Mar 2019 17:13:56 -0700
+
 gazebo9 (9.7.0-1~bionic) bionic; urgency=medium
 
   * gazebo9 9.7.0-1 release
