@@ -1,3 +1,9 @@
+gazebo9 (9.9.0-1~stretch) stretch; urgency=medium
+
+  * gazebo9 9.9.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 23 May 2019 23:35:33 +0200
+
 gazebo9 (9.8.0-1~stretch) stretch; urgency=medium
 
   * gazebo9 9.8.0-1 release
