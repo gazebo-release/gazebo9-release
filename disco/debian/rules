@@ -60,7 +60,7 @@ override_dh_auto_test:
 	#dh_auto_test || true
 
 override_dh_strip:
-	dh_strip -a --dbg-package=gazebo9-dbg -Xdwz
+	dh_strip -a --dbg-package=gazebo9-dbg -X.dwz
 
 %:
 	dh $@ --parallel --with bash-completion  
