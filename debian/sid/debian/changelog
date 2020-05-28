@@ -1,3 +1,9 @@
+gazebo9 (9.13.1-1~sid) sid; urgency=medium
+
+  * gazebo9 9.13.1-1 release
+
+ -- Ian Chen <ichen@osrfoundation.org>  Thu, 28 May 2020 10:37:45 -0700
+
 gazebo9 (9.13.0-1~sid) sid; urgency=medium
 
   * gazebo9 9.13.0-1 release
