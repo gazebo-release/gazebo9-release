@@ -1,3 +1,4 @@
 usr/share/gazebo-*/media/*
 usr/share/gazebo-*/worlds/*
 usr/share/gazebo-*/models/*
+usr/share/gazebo-*/profiler_vis/*
