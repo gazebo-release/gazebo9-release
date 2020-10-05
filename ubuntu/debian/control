@@ -80,7 +80,7 @@ Architecture: any
 Depends: ${shlibs:Depends},
          ${misc:Depends},
          libgazebo9 (= ${binary:Version}),
-         gazebo9-common (= ${source:Version})
+         gazebo9-common (>= 9.15.0)
 Recommends: gazebo9-plugin-base
 Suggests: gazebo9-doc
 Multi-Arch: foreign
@@ -150,7 +150,7 @@ Depends: libtbb-dev,
          libsimbody-dev (<< 4.0.0),
          libbullet-dev,
          libgazebo9 (= ${binary:Version}),
-         gazebo9-common (= ${source:Version}),
+         gazebo9-common (>= 9.15.0)
          gazebo9-plugin-base (= ${source:Version}),
          ${misc:Depends}
 Multi-Arch: same
