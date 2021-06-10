@@ -1,3 +1,9 @@
+gazebo9 (9.19.0-1~focal) focal; urgency=medium
+
+  * gazebo9 9.19.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 11 Jun 2021 01:31:25 +0200
+
 gazebo9 (9.18.0-1~focal) focal; urgency=medium
 
   * gazebo9 9.18.0-1 release
